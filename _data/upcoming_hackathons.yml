@@ -1,11 +1,16 @@
 - date: "ASAP"
   loc: "ADVERTISE YOUR HACKATHON ON THIS PAGE!"
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
-  community:  
-    
+  community:
+
 - date: "January 9-11"
   loc: "Virus Hunting Hackathon -- San Diego (NCBI) -- APPLY NOW!"
   link: https://goo.gl/forms/zvQsoAkEMPc6LVkv1
+  community access:
+
+- date: "January 25, 2019"
+  loc: "Common Workflow Language meetup"
+  link: https://groups.google.com/forum/#!topic/common-workflow-language/3H8-Vb3qIzU
   community access:
 
 - date: "TBD"
@@ -32,18 +37,18 @@
   loc: "Research Triangle at UNC (NCBI) -- Plus RNAseq analyzeathon phase 2!"
   link: https://goo.gl/forms/t6t3vYo5ZxnL3NZw1
   community access:
-  
+
 - date: "March 25-27, 2019"
   loc: "Pangenome and Haplotype Hackathon at UCSC! (NCBI)"
-  link: 
+  link:
   community access:
 
 - date: "April 15-16, 2019"
   loc: "BioIT World FAIR Data Hackathon"
   link: http://www.bio-itworldexpo.com/fair-data-hackathon/
   community access:
-  
+
 - date: "October 12-14, 2019"
   loc: "Houston at BCM pre-ASHG (NCBI)"
-  link: 
+  link:
   community access:
