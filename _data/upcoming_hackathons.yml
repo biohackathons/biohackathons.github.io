@@ -4,31 +4,10 @@
   community:
 
 ### Online Hackathons! ###
-
-- date: "October 1-December 1, 2021"
-  loc: "dknet Type 1 Diabetes Challenge"
-  link: https://info.thesugarscience.org/dknet-21-d-challenge
-  community access:
-
-
-- date: "October 10-13, 2021"
-  loc: "SV/Pangenomes III (Hybrid) -- Baylor College of Medicine"
-  link: https://www.hgsc.bcm.edu/events/hackathon
-  community access:
-
-- date: "November 8-12, 2021"
-  loc: "EU Biohackathon (Hybrid)"
-  link: https://biohackathon-europe.org/projects.html 
-  community access:
-  
-  - date: "Open"
-  loc: "Kaggle Research Dataset Challenge"
-  link: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
-  community access:
   
 - date: "January 11-14, 2022"
   loc: "Worldwide Dementia Hackathon -- Stay Tuned"
-  link: 
+  link: https://demondementia.com/neurohack2022/
   community access:  
   
 - date: "March 9-11, 2022"
