@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+  <html lang="en-US">
+
+{% if page.type == 'subscribe' %}
+  {% include mailing-head.html %}
+{% else %}
+  {% include head.html %}
+{% endif %}
+
+
+    <body>
+
+      {% include header.html %}
+
+
+      {{ content }}
+
+
+      {% include footer.html %}
+
+    </body>
+
+  </html>
