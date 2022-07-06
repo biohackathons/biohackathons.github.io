@@ -172,12 +172,12 @@
   loc: "2nd nf-core Hackathon, QBiC Tübingen/Germany"
   link: https://github.com/orgs/nf-core/projects/2
   community access:
-  
+
 - date: "March 25-27, 2019"
   loc: "Pangenome and Haplotype Hackathon at UCSC! (NCBI)"
   link: https://ncbiinsights.ncbi.nlm.nih.gov/2019/02/06/pangenomics-cloud-hackathon-march-2019/
   community access:
-  
+
 - date: "March 11-13, 2019"
   loc: "RNA-Seq in the Cloud hackathon at UNC (NCBI) -- Applications Closed!"
   link: https://goo.gl/forms/kALCxn2jiHtOM0D23
@@ -185,7 +185,7 @@
 
 - date: "February 25-27, 2019"
   loc: "IronHack + RNAseq at USF (NCBI) -- Applications Closed!"
-  link:   https://goo.gl/forms/GBh7frjUUuI5V8o43
+  link: https://goo.gl/forms/GBh7frjUUuI5V8o43
   community access:
 
 - date: "February 20-22, 2019"
@@ -197,7 +197,7 @@
   loc: "Seattle at Fred Hutch (NCBI)"
   link: https://goo.gl/forms/58SCyZL1dDGnoALK2
   community access:
-  
+
 - date: "January 9-11"
   loc: "Virus Hunting Hackathon -- San Diego (NCBI) -- Closed!"
   link: https://goo.gl/forms/zvQsoAkEMPc6LVkv1
@@ -207,7 +207,7 @@
   loc: "Dallas at UTSW, pre-SC (NCBI Community Partner)"
   link: https://www.u-hackmed.org/
   community access:
-  
+
 - date: "November 10-12"
   loc: "Cold Spring Harbor Biological Data Science (NCBI)"
   link: https://docs.google.com/document/d/1XiwTCf1LtMODPvFhwKEeQ_uSN8adqd3srmmY9KZCOQA/edit?usp=sharing
@@ -232,7 +232,7 @@
   loc: "2018 CIViC Hackathon and Curation Jamboree (pre-ASHG)"
   link: https://civicdb.org/meetings
   community access:
-  
+
 - date: "October 12-14"
   loc: "HackSeq (NCBI style)"
   link: https://www.hackseq.com/
@@ -241,13 +241,13 @@
 - date: "October 5-7"
   loc: "Be the match immunogenomics hackathon"
   link: https://github.com/nmdp-bioinformatics/dash/wiki
-  community access:  
+  community access:
 
 - date: "September 20-23"
   loc: "ASM-NGS Microbial Bioinformatics Hackathon"
   link:
   community access:
-  
+
 - date: "September 10-12"
   loc: "NIH Research Festival (NCBI)"
   link: https://docs.google.com/document/d/1ktVgd9BUaZDsCnyE2BpaJg7MbKZWRiBUiZwmRD9sofo/edit?usp=sharing
@@ -270,22 +270,20 @@
 
 - date: "July 23-25, 2018"
   loc: "NIH Campus (NCBI)"
-  link: 
+  link:
   community access:
 
 - date: "July 11-13, 2018"
   loc: "Chicago, IL (NCBI)"
-  link: 
+  link:
   community access:
 
 - date: "July 2-4, 2018"
   loc: "Wellcome Trust Bio Data Hackathon"
-  link: 
-  community:  
+  link:
+  community:
 
 - date: "June 29-30, 2018"
   loc: "GCC/BOSC 2018 -- Portland, OR USA (Built this site)"
-  link: 
-  community:  
-  
-  
+  link:
+  community:

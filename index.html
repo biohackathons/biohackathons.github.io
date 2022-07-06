@@ -1,3 +1,52 @@
 ---
-layout: index
+layout: default
 ---
+
+<div class="container py3">
+  <div class="row">
+
+    <div class="col-xs-12">
+      <div class="design-uno panel panel-default">
+        <div class="p3">
+          <p class="h0">Upcoming Hackathons</p>
+
+          {% include upcoming-hackathons.html %}
+
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /.row -->
+
+
+    <div class="row">
+
+      <div class="col-xs-12">
+        <div class="design-uno panel panel-default">
+          <div class="p3">
+            <p class="h0">Previous Hackathons</p>
+
+            {% include previous-hackathons.html %}
+
+          </div>
+        </div>
+      </div>
+
+    </div><!-- /.row -->
+
+    <div class="row">
+
+      <div class="col-xs-12">
+        <div class="design-uno panel panel-default">
+          <div class="p3">
+            <p class="h0">Hackathon Products</p>
+
+            {% include hackathon-products.html %}
+
+          </div>
+        </div>
+      </div>
+
+  </div><!-- /.row -->
+
+</div><!-- /.container -->
