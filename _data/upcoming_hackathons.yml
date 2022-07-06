@@ -2,33 +2,32 @@
   loc: "ADVERTISE YOUR HACKATHON ON THIS PAGE!"
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
   community:
-
-- date: "January 8-10, 2020"
-  loc: "NIH Biomedical Data Science Codeathon in Pittsburgh -- Applications Open!"
-  link: https://ncbiinsights.ncbi.nlm.nih.gov/2019/10/30/codeathon-pittsburgh-jan-8-10/#more-3216
-  community access:
-
-- date: "January 16-17, 2020"
-  loc: "Save the Date -- Pangenomics Metadata 'Scopeathon' -- San Diego!"
-  link: https://ncbiinsights.ncbi.nlm.nih.gov/2019/11/19/metadata-scopeathon/
-  community access:
-
-- date: "January 15-17, 2020"
-  loc: "Single Cell Hackathon, NYGC"
-  link: https://ncbiinsights.ncbi.nlm.nih.gov/2019/11/13/nygc-jan-2020-rfp/
-  community access:
-
-- date: "April 19-21, 2020"
-  loc: "Baylor Structural Variant Codeathon"
+  
+- date: "May 4-5, 2022"
+  loc: "FAIR Data Hackathon -- BioIT World"
+  link: https://www.bio-itworldexpo.com/fair-data-hackathon
+  community access:  
+  
+  
+- date: "June 20-24, 2022"
+  loc: "FeatureCloud Federated Hackathon"
+  link: https://featurecloud.ai/hackathon-2022
+  community access:  
+  
+  
+- date: "August 5-6, 2022"
+  loc: "Hackin' Omics"
+  link: https://hackathon.ubrite.org/
+  community access: 
+  
+  
+- date: "October 9-12, 2022"
+  loc: "Everything is bigger in Texas: Pan-Structural Variation hackathon in the Cloud!"
   link: https://www.hgsc.bcm.edu/events/hackathon
-  community access:
-
-- date: "May 2020"
-  loc: "World Wide Rare Disease Codeathon"
-  link:
-  community access:
-
-- date: "June 8-12, 2020"
-  loc: "Rocky Mountain Genomics HackCon III -- Nucleic Acid Editing"
-  link:
-  community access:
+  community access: 
+  
+  
+- date: "November 7-11, 2022"
+  loc: "ELIXIR Biohackathon"
+  link: https://biohackathon-europe.org/
+  community access:  

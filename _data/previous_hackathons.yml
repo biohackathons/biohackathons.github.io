@@ -1,3 +1,133 @@
+- date: "March 9-11, 2022"
+  loc: "Bringing Complex Genomic Data to the Clinic III -- Carnegie Mellon Libraries/JHU"
+  link: https://www.library.cmu.edu/about/news/2022-02/hackathon-2022
+  community access:  
+
+- date: "January 11-14, 2022"
+  loc: "Worldwide Dementia Hackathon -- Stay Tuned"
+  link: https://demondementia.com/neurohack2022/
+  community access: 
+
+- date: "November 8-12, 2021"
+  loc: "EU Biohackathon (Hybrid)"
+  link: https://biohackathon-europe.org/projects.html 
+  community access:
+
+- date: "October 1-December 1, 2021"
+  loc: "dknet Type 1 Diabetes Challenge"
+  link: https://info.thesugarscience.org/dknet-21-d-challenge
+  community access:
+
+- date: "October 10-13, 2021"
+  loc: "SV/Pangenomes III (Hybrid) -- Baylor College of Medicine"
+  link: https://www.hgsc.bcm.edu/events/hackathon
+  community access: 
+
+- date: "June 25 - July 30, 2021"
+  loc: "Hack4Rare -- Childrens Tumor Foundation (Virtual)"
+  link: https://www.synapse.org/#!Synapse:syn25551331/wiki/609587
+  community access:  
+
+- date: "June 1-4, 2021"
+  loc: "MultiOmic Clinical Reporting! (Virtual) -- Carnegie Mellon University Libraries"
+  link: https://www.library.cmu.edu/about/publications/news/accepting-applications-hackathon-2021
+  community access:
+
+- date: "January 6-8, 2021"
+  loc: "Bringing Genomic Data to the Clinic 2021 @CMU Libraries"
+  link: https://forms.gle/gJysqAikunekP32B6
+  community access:
+
+- date: "November 30, 2020 - January 29, 2021"
+  loc: "pFDA Precision Immunology App-a-thon"
+  link: https://precision.fda.gov/challenges/12
+  community access:
+  
+- date: "November 9-13, 2020"
+  loc: "Biohackathon Europe"
+  link: https://www.biohackathon-europe.org/
+  community access:
+  
+- date: "November 7-8, 2020"
+  loc: "Biological Data Science Hackathon"
+  link: https://datascience.nih.gov/news/cold-spring-harbor-laboratory-biological-data-science-codeathon
+  community access:   
+  
+- date: "October 11-14, 2020"
+  loc: "Baylor Structural Variant Codeathon"
+  link: https://www.hgsc.bcm.edu/events/hackathon 
+  community access:
+  
+- date: "October 2 - November 13, 2020 "
+  loc: "Hack for NF"
+  link: https://www.ctf.org/news/hack-for-nf-2020
+  community access:
+  
+- date: "September 29 - October 30, 2020 "
+  loc: "PrecisionFDA Precision Immunology App-a-thon!"
+  link: https://precision.fda.gov/
+  community access:
+
+- date: "September 16-18, 2020"
+  loc: "DaSH Hackathon"
+  link: 
+  community access:
+
+- date: "ended May 21"
+  loc: "Online CoVID-19 Hackathon! -- Hackseq -- Vancouver Based"
+  link: https://www.hackseq.com/rna
+  community access:
+
+- date: "April 23-25"
+  loc: "Online CoVID-19 HLA (and some othe HLA projects) Hackathon! - NMDP/Bethematch  Based"
+  link: https://github.com/nmdp-bioinformatics/dash/wiki/DASH10
+  community access:
+
+- date: "April 5-9"
+  loc: "Online CoVID-19 (and other coronaviruses) Hackathon! - Biohackathon (Japan) Based"
+  link: https://github.com/virtual-biohackathons/covid-19-bh20
+  community access:
+
+- date: "March 11-13, 2020"
+  loc: "Computational Medicine Codeathon and AWS workshop at Chapel Hill (NIH)"
+  link: https://ncbiinsights.ncbi.nlm.nih.gov/2020/02/10/codeathon_chapel_hill/
+  community access:
+
+- date: "March 9-12, 2020"
+  loc: "Alliance of International Developers for Rare Diseases, Kashiwa, Japan"
+  link: https://aidrd.github.io/aidrd2020/
+  community access:
+
+- date: "March 2-4, 2020"
+  loc: "Preclinical Drug Discovery Hackathon w/ CHI, San Francisco"
+  link: https://www.triconference.com/hackathon
+  community access:
+
+- date: "February 26-28, 2020"
+  loc: "One Health Codeathon at USF: Host-Microbiome Interactions Registrations"
+  link: https://usfhealth.az1.qualtrics.com/jfe/form/SV_0qQUfzeO0ylAMBL
+  community access:
+  
+- date: "February 22, 2020"
+  loc: "Hacking to Cure Michael -- Worldwide"
+  link: https://www.hackingtocuremichael.com
+  community access:
+
+- date: "January 16-17, 2020"
+  loc: "Save the Date -- Pangenomics Metadata 'Scopeathon' -- San Diego!"
+  link: https://ncbiinsights.ncbi.nlm.nih.gov/2019/11/19/metadata-scopeathon/
+  community access:
+
+- date: "January 15-17, 2020"
+  loc: "Single Cell Hackathon, NYGC"
+  link: https://ncbiinsights.ncbi.nlm.nih.gov/2019/11/13/nygc-jan-2020-rfp/
+  community access:
+
+- date: "January 8-10, 2020"
+  loc: "NIH Biomedical Data Science Codeathon in Pittsburgh -- Applications Open!"
+  link: https://ncbiinsights.ncbi.nlm.nih.gov/2019/10/30/codeathon-pittsburgh-jan-8-10/#more-3216
+  community access:
+
 - date: "September 1-7, 2019"
   loc: "NBDC/DBCLS Biohackathon, Fukuoka, Japan"
   link: https://docs.google.com/forms/d/e/1FAIpQLScMxAsoC_6XDhxh4XTYQkVvSlw5q1kxvtmsxi9jU_Lze4i5FQ/viewform
