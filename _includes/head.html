@@ -1,11 +1,22 @@
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <link rel="stylesheet" href="/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/css/custom.css">
-  <script src="/js/jquery.js"></script>
-  <script src="/js/bootstrap.min.js"></script>
-  <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/css/custom.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald|Source+Sans+Pro|Ubuntu|Public+Sans" rel="stylesheet">
+    <script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <title>{{ site.title }}
+        {% if page.title %}
+            -
+            {{ page.title }}
+        {% endif %}
+    </title>
+    <style>
+    body, html, div, p, a, h1, h2, h3, h4, h5, h6, footer, form {
+  font-family: "{{ site.font }}", sans-serif;
+}
+  </style>
 </head>

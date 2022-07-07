@@ -1,33 +1,18 @@
 ---
+layout: default
 ---
-<!DOCTYPE html>
-<html lang="en-US">
+<div class="container py3">
+  <div class="row">
+    <div class="col-xs-12">
+      <div class="design-uno panel panel-default">
 
-  {% include head.html %}
+        <div id="page-content" class="p3">
 
-  <body>
+          {{ content }}
 
-    {% include header.html %}
-
-    <div class="container py3">
-      <div class="row">
-
-        <div class="col-xs-12">
-          <div class="design-uno panel panel-default">
-            <div id="page-content" class="p3">
-
-              {{ content }}
-
-            </div>
-          </div>
         </div>
 
-      </div><!-- /.row -->
-
-    </div><!-- /.container -->
-
-    {% include footer.html %}
-
-  </body>
-
-</html>
+      </div>
+    </div>
+  </div><!-- /.row -->
+</div><!-- /.container -->

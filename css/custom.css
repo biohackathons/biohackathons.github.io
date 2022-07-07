@@ -1,138 +1,128 @@
-.no-margin{
-	margin:0px;
-
-}
-.no-padding{
-	padding:0px;
-	border-bottom: 6px solid #222;
-    background-color: #222;
-
-
+.no-margin {
+    margin: 0px;
 }
 
-.my-navbar{
-
+.no-padding {
+    padding: 0px;
+    border-bottom: 6px solid #020029;
+    background-color: #020029;
 }
 
-.my-navbar .my-main{
-	color:white;
-
+.my-navbar {
+    background-color: #020029;
+    border-color: #020029;
 }
 
-.my-navbar .my-second-main li a{
-	color:white;
+.my-navbar .my-main {
+    color: white;
+}
+
+.my-navbar .my-second-main li a {
+    color: white;
 }
 
 .my-navbar .my-second-main .dropdown-menu li a {
-	color:black;
+    color: black;
 }
 
-.my-banner{
-
+.my-banner {
     left: 0;
     right: 0;
-
+    width: 100%;
+    color: #fff;
 }
 
-.site-footer
-{
-	background-color:black;
+.site-footer {
+    background-color: #020029;
 }
 
 h4 {
-	color:white;
-	padding:0px 10px;
+    color: white;
+    padding: 0px 10px;
 }
+
 address {
-	color:white;
-	padding:0px 10px;
-
-}
-.bottom-footer{
-
-	margin-top:0px;
-	padding-top:0px;
-	color:gray;
- border-top:1px solid #b2b2b2;
+    color: white;
+    padding: 0px 10px;
 }
 
-.footer-nav{
-	text-align:right;
-	list-style:none;
-
+.bottom-footer {
+    margin-top: 0px;
+    padding-top: 0px;
+    color: gray;
+    border-top: 1px solid #b2b2b2;
 }
 
-.footer-nav li
-{
-	display:inline;
-	top:20px;
-
+.footer-nav {
+    text-align: right;
+    list-style: none;
 }
 
-.footer-nav li:not(:first-child):before{
-	content: '|';
+.footer-nav li {
+    display: inline;
+    top: 20px;
+}
 
+.footer-nav li:not(:first-child):before {
+    content: '|';
 }
 
 .footer-nav a {
-	color:#b2b2b2;
-
+    color: #b2b2b2;
 }
 
 .footer-nav a:hover {
-	color:white;
-	text-decoration:none;
+    color: white;
+    text-decoration: none;
 }
 
-.panel-default{
-	background-color:#DCDCDC;
+.panel-default {
+    background-color: #DCDCDC;
 }
 
-.panel-default{
-	top : 40%;
-	width:100%;
+.panel-default {
+    top: 40%;
+    width: 100%;
 }
 
-
-h3{
-	font-size: 30px;
-	padding-left:10px;
-	}
+h3 {
+    font-size: 30px;
+    padding-left: 10px;
+}
 
 h5 {
-	font-size: 20px;
+    font-size: 20px;
+    padding-left: 10px;
 }
 
-.site-footer .column{
-padding:0px;
-margin:10px;
-
+h6 {
+    font-size: 16px;
+    padding-left: 10px;
 }
 
-.site-footer .column a{
-color:#b2b2b2;
-
+.site-footer .column {
+    padding: 0px;
+    margin: 10px;
 }
 
-.column{
-	display: inline-block;
-vertical-align: middle;
-float: none;
-
+.site-footer .column a {
+    color: #b2b2b2;
 }
 
-/*
-	Below are atomic css classes (single-purpose classes) added by Brian Zelip
-	for quick overriding of Bootstrap and providing new style functionality.
-	See [BassCSS](http://basscss.com/v7/docs) for info about this
-	particular flavor of atomic css.
-*/
+.column {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
 
-.h0 { font-size: 4rem; }
+/* Below are atomic css classes (single-purpose classes) added by Brian Zelip for quick overriding of Bootstrap and providing new style functionality. See [BassCSS](http://basscss.com/v7/docs) for info about this particular flavor of atomic css. */
+.h0 {
+    font-size: 4rem;
+}
 
 .list-reset {
-  list-style: none;
-  padding-left: 0;
+    list-style: none;
+    padding-left: 0;
 }
 
 .bold {
@@ -143,7 +133,9 @@ float: none;
     font-weight: 400
 }
 
-.thin { font-weight: 200; }
+.thin {
+    font-weight: 200;
+}
 
 .italic {
     font-style: italic
@@ -385,4 +377,16 @@ float: none;
 .px4 {
     padding-left: 4rem;
     padding-right: 4rem
+}
+
+.navbar-inverse .navbar-toggle:focus,
+.navbar-inverse .navbar-toggle:hover {
+    background-color: #020029;
+    border-color: #020029;
+}
+
+.navbar-inverse .navbar-toggle:focus,
+.navbar-inverse .navbar-toggle:hover {
+    background-color: #225077;
+    border-color: #020029;
 }
