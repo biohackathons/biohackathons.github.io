@@ -48,15 +48,15 @@
 
 - name: "BioSyntax" 
   desc: "Syntax Highlighting for Computational Biology (hackseq '17)"
-  repo_URL: "biosyntax.org" 
-  manuscript_URL:  
-  manuscript_title:   
+  repo_URL: "https://biosyntax.org/" 
+  manuscript_URL: "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2315-y"
+  manuscript_title: "bioSyntax: syntax highlighting for computational biology"   
 
 - name: "phenotypeXpression" 
   desc: "Subclassification of disease states based on the intersection of literature and expression"
   repo_URL: "https://github.com/NCBI-Hackathons/phenotypeXpression" 
-  manuscript_URL:  
-  manuscript_title:   
+  manuscript_URL: "https://www.biorxiv.org/content/10.1101/461301v2"
+  manuscript_title: "PhenotypeXpression: sub-classification of disease states using public gene expression data and literature"
   
 - name: "PrIMP" 
   desc: "A python toolkit for the predictive analysis of infection-prone microbiome pathways"
