@@ -18,6 +18,17 @@
   link: https://www.hgsc.bcm.edu/events/hackathon
   community:
 
+- date: "August 26-31, 2024"
+  loc: "DBCLS Hackathon -- Tokyo, Japan"
+  link: https://2024.biohackathon.org/
+  community:
+
+  
+- date: "September 17-19, 2024"
+  loc: "Immunopeptidomics Hackathon -- Oklahoma City, OK"
+  link: https://github.com/nmdp-bioinformatics/dash/wiki/DaSH-14
+  community:
+
 - date: "November 4-8, 2024"
   loc: "ELIXIR Biohackathon"
   link: "https://elixir-europe.org/events/biohackathon-europe"
