@@ -1,3 +1,29 @@
+  
+- date: "September 17-19, 2024"
+  loc: "Immunopeptidomics Hackathon -- Oklahoma City, OK"
+  link: https://github.com/nmdp-bioinformatics/dash/wiki/DaSH-14
+  community:
+
+- date: "August 26-31, 2024"
+  loc: "DBCLS Hackathon -- Tokyo, Japan"
+  link: https://2024.biohackathon.org/
+  community:
+
+- date: "August 28-31, 2024"
+  loc: "Baylor Structural Variant Hackathon"
+  link: https://www.hgsc.bcm.edu/events/hackathon
+  community:
+
+- date: "June 21, 2024 (Demo Day)"
+  loc: "Starting online mid-April 2024, demo day SF June 21"
+  link: https://www.rarediseaseaihackathon.org/
+  community:
+
+- date: "May 18-19, 2024"
+  loc: "Memphis Pangenomics Hackathon"
+  link: https://pangenome.github.io/MemPanG24/#_biohackathon
+  community:
+
 - date: "October 30-November 3, 2023"
   loc: "ELIXIR Biohackathon"
   link: https://biohackathon-europe.org/
