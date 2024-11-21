@@ -1,3 +1,12 @@
+- date: "November 4-8, 2024"
+  loc: "ELIXIR Biohackathon"
+  link: "https://elixir-europe.org/events/biohackathon-europe"
+  community:
+
+- date: "October 3, 2024"
+  loc: "Pydna Hackathon (cloning / genetic engineering library)"
+  link: https://github.com/BjornFJohansson/pydna/discussions/258
+  community:
   
 - date: "September 17-19, 2024"
   loc: "Immunopeptidomics Hackathon -- Oklahoma City, OK"
