@@ -5,21 +5,21 @@ permalink: /About.html
 ---
 # About
 
-###### See the bottom of this page for hackathon styles employed in the Biological/Biomedical Data Science Space.
+See the bottom of this page for hackathon styles employed in the Biological/Biomedical Data Science Space.
 
 ## Goal
 
-###### Bringing people together to build tools to or perform advanced bioinformatics analysis.
+Bringing people together to build tools to or perform advanced bioinformatics analysis.
 
 ## Products
 
-###### Some pipelines and other scripts, software and programs generated in the events will be added to public GitHub repositories designed for that purpose.
+- Some pipelines and other scripts, software and programs generated in the events will be added to public GitHub repositories designed for that purpose.
 
-###### A manuscript outlining the design and usage of the software tools constructed by each team may be submitted to an appropriate journal, such as the F1000Research Hackathons channel.
+- A manuscript outlining the design and usage of the software tools constructed by each team may be submitted to an appropriate journal, such as the F1000Research Hackathons channel.
 
 ## Notes
 
-###### Typically, participants will need to bring their own laptop to these programs.
+Typically, participants will need to bring their own laptop to these programs.
 
 ## Hackathon styles employed by various institutions
 
