@@ -5,3 +5,12 @@
 .Ruserdata
 _site/*
 *cache
+
+# Jekyll specific
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/
+.bundle/
+Gemfile.lock
+*.gem
