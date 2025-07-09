@@ -390,3 +390,8 @@ h6 {
     background-color: #225077;
     border-color: #020029;
 }
+
+body {
+    font-size: 16px;
+    line-height: 1.5;
+}
