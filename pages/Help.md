@@ -6,7 +6,6 @@ permalink: /Help.html
 
 # Help
 
-
-##### For help with this page, please see the [about](/About.html) section of this website, or [contact Ben Busby](mailto:ben.busby@gmail.com).  
-
-##### For help with applying to particular hackathons, please contact the organizers of the individual events, listed on their webpages.  
+- For general information, see our [About](/About.html) page.
+- For website issues, contact [ben.busby@gmail.com](mailto:ben.busby@gmail.com).
+- For specific hackathon questions, contact the event organizers listed on their respective pages.

@@ -4,7 +4,6 @@ title: Contact
 permalink: /Contact.html
 ---
 
-# Contact
+# Contact Us
 
-##### [biohackathons@gmail.com](mailto:biohackathons@gmail.com)
-##### [ben.busby@gmail.com](mailto:ben.busby@gmail.com)
+For questions about biohackathons or to get involved, please reach out to [biohackathons@gmail.com](mailto:biohackathons@gmail.com) or [ben.busby@gmail.com](mailto:ben.busby@gmail.com).

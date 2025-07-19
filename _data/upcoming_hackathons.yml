@@ -8,9 +8,19 @@
   link: https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/
   community:  
 
-- date: "September 8-12, 2025"
-  loc: "NCBI Comparative Genomics Codeathon: Advancing human health through collaborative discovery"
-  link: https://ncbiinsights.ncbi.nlm.nih.gov/event/2025cgcodeathon/
+- date: "August 14-15, 2025"
+  loc: "Cell Maps for AI CodeFest"
+  link: https://www.uab.edu/medicine/informatics/news-events/events/cm4ai-codefest-at-uab
+  community:
+
+- date: "August 27-29, 2025"
+  loc: "SV Hackathon 2025"
+  link: https://fritzsedlazeck.github.io/blog/2025/hackathon-2025/
+  community:
+
+- date: "September 29 - October 1, 2025"
+  loc: "St. Jude KIDS25 (Knowledge in Data Science) BioHackathon"
+  link: https://www.stjude.org/research/why-st-jude/biohackathon.html
   community:
 
 - date: "October 1-3, 2025"
@@ -21,4 +31,9 @@
 - date: "October 21-22, 2025"
   loc: "Open Targets Hackathon"
   link: https://www.opentargets.org/hackathon
+  community:
+
+- date: "November 3-7, 2025"
+  loc: "BioHackathon Europe"
+  link: https://biohackathon-europe.org/
   community:

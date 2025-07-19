@@ -3,3 +3,5 @@ title: "biohackathons"
 # Use a Google Font
 font: "Public Sans" # Can also be 'Ubuntu', 'Public Sans', 'Source Sans Pro', or 'Oswald'
 
+plugins:
+  - jekyll-sitemap
