@@ -8,10 +8,22 @@
   loc: nf-core hackathon
   community:
 
+- date: "April 17-19, 2026"
+  link: https://brainhackwarsaw.fuw.edu.pl
+  loc: Brainhack Warsaw
+
+- date: "May 8-10, 2026"
+  link: https://futureofhealthhack.hercode.ch/#about
+  loc: The Future of Health Hackathon
+
 - date: "May 14-15, 2026"
   link: https://pangenome.github.io/MemPanG26/
   loc: MemPanG pangenome hackathon
 
- - date: "Aug 25-28, 2026"
+- date: "August 25-28, 2026"
   link: https://docs.google.com/forms/d/e/1FAIpQLSfETOLMR9i82jo630Rlfmm9B0nUP8diFqKIb2QfBLo1CNMUgA/viewform
   loc: Baylor College of Medicine
+
+- date: "November 9–13, 2026"
+  link: https://biohackathon-europe.org
+  loc: ELIXIR BioHackathon Europe
