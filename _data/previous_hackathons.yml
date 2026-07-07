@@ -1,3 +1,23 @@
+- date: "May 14-15, 2026"
+  loc: "MemPanG pangenome hackathon"
+  link: https://pangenome.github.io/MemPanG26/
+  community:
+
+- date: "May 8-10, 2026"
+  loc: "The Future of Health Hackathon"
+  link: https://futureofhealthhack.hercode.ch/#about
+  community:
+
+- date: "April 17-19, 2026"
+  loc: "Brainhack Warsaw"
+  link: https://brainhackwarsaw.fuw.edu.pl
+  community:
+
+- date: "March 11-13, 2026"
+  loc: "nf-core hackathon"
+  link: https://nf-co.re/events/2026/hackathon-march-2026
+  community:
+
 - date: "July 23-24, 2025"
   loc: "BOSC CollaborationFest with CAFA and others"
   link: https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/

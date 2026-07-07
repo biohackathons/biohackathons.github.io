@@ -2,31 +2,27 @@
   loc: "ADVERTISE YOUR HACKATHON ON THIS PAGE!"
   link: https://goo.gl/forms/BijIwPgPo7nhtdG03
   community:
-  
-- date: "March 11-13, 2026"
-  link: "https://nf-co.re/events/2026/hackathon-march-2026"
-  loc: nf-core hackathon
-  community:
 
-- date: "April 17-19, 2026"
-  link: https://brainhackwarsaw.fuw.edu.pl
-  loc: Brainhack Warsaw
+- date: "August 13-14, 2026"
+  link: https://github.com/BiocCodingCollaborations/BiocNA2026_Hackathon
+  loc: "Bioconductor North America 2026 Hackathon"
 
-- date: "May 8-10, 2026"
-  link: https://futureofhealthhack.hercode.ch/#about
-  loc: The Future of Health Hackathon
-
-- date: "May 14-15, 2026"
-  link: https://pangenome.github.io/MemPanG26/
-  loc: MemPanG pangenome hackathon
 
 - date: "August 25-28, 2026"
-  link: https://docs.google.com/forms/d/e/1FAIpQLSfETOLMR9i82jo630Rlfmm9B0nUP8diFqKIb2QfBLo1CNMUgA/viewform
-  loc: Baylor College of Medicine
+  link: https://fritzsedlazeck.github.io/blog/2026/hackathon-2026/
+  loc: "The 8th Pan-Structural Variation Hackathon in the Cloud"
 
 - date: "September 2-4, 2026"
   link: https://scverse.org/morphology2026/
   loc: scverse x morphology hackathon
+
+- date: "September 9-11, 2026"
+  link: https://2026.biohack.live/
+  loc: "Joint International Cambridge-Antwerp Bioinformatics Hackathon"
+
+- date: "September 16-18, 2026"
+  link: https://www.stjude.org/research/why-st-jude/biohackathon.html
+  loc: "St. Jude KIDS26 BioHackathon"
 
 - date: "November 9-13, 2026"
   link: https://biohackathon-europe.org
